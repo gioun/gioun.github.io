@@ -1,16 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Yangfan Ou"
-  uri         : "https://gioun.github.io/"
-  email       : "aptx15278447068@163.com"
-  bio         : " "
+  name        : "Name Name"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-
-
+  twitter     : "name"
+  google_plus : "Name"
 
 Name2 Name2:
-  name        : "Gin"
-  email       : "ginstone4869@gmail.com"
-  bio         : " "
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
