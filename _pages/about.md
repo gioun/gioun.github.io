@@ -24,8 +24,11 @@ Works
 The Paradox of Learning with ChatGPT Investigating the Trust Influencing Factors, CSWIM accepted in May 2023.
 
 Projects
-> TODO: complete the url.
 ------
+
+> TODO: complete the url.
+
+
 1. Metaverse research platform, [video](https://www.bilibili.com/).
 2. RUC Business and Social Data Analysis Teaching Platform, [github](), [demo]().
 3. Technology maturity curve visualization platform, [github]().
