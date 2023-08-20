@@ -23,7 +23,7 @@ In the work, I conduct system analysis and design with team members and worked f
 
 ## **Metaverse research platform**
 
-[Video](https://bilibili.com/](https://www.bilibili.com/video/BV1kG411f7S5/?share_source=copy_web&vd_source=a599f114cf6b3eaf2c320393d2c76f46)
+[Video](https://www.bilibili.com/video/BV1kG411f7S5/?share_source=copy_web&vd_source=a599f114cf6b3eaf2c320393d2c76f46)
 
 
  ![Meta1.jpg](../images/Meta1.jpg) | ![Meta2.jpg](../images/Meta2.jpg)
