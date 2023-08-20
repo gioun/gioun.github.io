@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Project"
+permalink: /project/
+author_profile: true
+---
+
 ## **RUC Business and Social Data Analysis Teaching Platform**
 
 [Gtihub](https://github.com/)
