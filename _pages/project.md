@@ -7,7 +7,7 @@ author_profile: true
 
 ## **RUC Business and Social Data Analysis Teaching Platform**
 
-[Github](https://github.com/)
+[Github](https://github.com/gioun/Business-and-Social-Data-Analysis-Teaching-Platform)
 
 > This work is the one that I appreciate the most.
 > There should have been a demo link here, but the two servers for front-end and back-end are down now and the domain is expired and I haven't 
@@ -36,7 +36,7 @@ In the work, I was responsible for the system analysis and design, and I lead th
 
 ## **Technology maturity curve visualization platform**
 
-[Github](https://github.com/)
+[Github](https://github.com/gioun/Technology-maturity-curve-visualization-platform)
 
 Technology maturity curve visualization platform is a web which was developed to show the maturity change of the technology based on the data from Gartner Hype Cycle. It was developed with Vue, and the curve chart was adapted from echart.
 
