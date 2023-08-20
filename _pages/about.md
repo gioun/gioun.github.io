@@ -18,18 +18,16 @@ Education
 ------
 Sept. 2020 --- June 2024: Information management and information system, Renmin University of China (expected)
 
-
 Works
 ------
-The Paradox of Learning with ChatGPT Investigating the Trust Influencing Factors, CSWIM accepted in May 2023.
+The Paradox of Learning with ChatGPT Investigating the Trust Influencing Factors
+
+When ChatGPT Fails: Investigating user perception from the perspective of trust transfer (on going)
 
 Projects
 ------
 
-> TODO: complete the url.
-
-
-1. Metaverse research platform, [video](https://www.bilibili.com/).
-2. RUC Business and Social Data Analysis Teaching Platform, [github](), [demo]().
-3. Technology maturity curve visualization platform, [github]().
+1. Metaverse research platform.
+2. RUC Business and Social Data Analysis Teaching Platform.
+3. Technology maturity curve visualization platform.
 
