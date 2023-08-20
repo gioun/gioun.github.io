@@ -9,7 +9,8 @@ author_profile: true
 
 [Gtihub](https://github.com/)
 
-[Demo](https://bilibili.com/)
+> This work is the one that I appreciate the most.
+> There should have been a demo link here, but the two servers for front-end and back-end are down now and the domain is expired.  I can provie is the user handbook for the course work which contains the screenshot of the platform. 
 
 Picture
 
