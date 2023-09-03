@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## **Olympic Winter Games Beijing 2022 volunteer**
-<object data="../files/Volunteer.pdf" type="application/pdf" width="700px" height="700px">
+<object data="../files/Volunteer.pdf" type="application/pdf" width="700px" height="350px">
     <embed src="../files/Volunteer.pdf">
         <p>This browser does not support PDFs. Please <a href="../files/Volunteer.pdf">download the PDF</a> to view.</p>
     </embed>
@@ -19,6 +19,13 @@ author_profile: true
 
 
 ## **Returning Home social practice**
+
+<object data="../files/SocialPractice2.pdf" type="application/pdf" width="700px" height="350px">
+    <embed src="../files/SocialPractice2.pdf">
+        <p>This browser does not support PDFs. Please <a href="../files/SocialPractice2.pdf">download the PDF</a> to view.</p>
+    </embed>
+</object>
+
 
 - I participated in the social practice activity organized by the Communist Youth League of Babu District, Hezhou.
 - My activity experience included interning at the Forestry Bureau, where I was responsible for handling the assigned tasks in the office, and visiting the forest farm, where I participated in the research work.
