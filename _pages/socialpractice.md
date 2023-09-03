@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ## **Olympic Winter Games Beijing 2022 volunteer**
-|![](../images/Volunteer.jpg)|
-|---|
+<object data="../files/Volunteer.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/Volunteer.pdf">
+        <p>This browser does not support PDFs. Please <a href="../files/Volunteer.pdf">download the PDF</a> to view.</p>
+    </embed>
+</object>
 
 - I was a volunteer for the access control at the Beijing Winter Olympics, where I was responsible for checking the qualifications of the personnel entering the venues and controlling the access of the personnel to the venues.
 - My major responsibilities included verifying the identity and credentials of the personnel, scanning and validating the passes, and ensuring the compliance with the health and safety protocols.
