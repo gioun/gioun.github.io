@@ -31,3 +31,12 @@ Projects
 2. RUC Business and Social Data Analysis Teaching Platform.
 3. Technology maturity curve visualization platform.
 
+
+Currenct
+------
+
+> Working on Project Management online course.     9 Sept. - ...
+> Submit resume to some big techs for PM position.    8 Sept.
+> Working on TOEFL.  
+> Submit resume for Mphil in HKUST GZ.    4 Sept
+
