@@ -32,14 +32,16 @@ Projects
 3. Technology maturity curve visualization platform.
 
 
-Currenct
+Present
 ------
 
+> Submit resume to some big techs for PM, front-end engineer, client platform engineer position. 13 Sept.
+>
 > Working on Project Management online course.     9 Sept. - ...
 >
 > Submit resume to some big techs for PM position.    8 Sept.
 >
-> Working on TOEFL.  
+> Working on TOEFL. ... - ...  
 >
 > Submit resume for Mphil in HKUST GZ.    4 Sept
 
