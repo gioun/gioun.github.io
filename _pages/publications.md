@@ -8,6 +8,7 @@ author_profile: true
 ## **When ChatGPT Fails: Investigating user perception from the perspective of trust transfer** (on going)
 This study adopts mixed-methods to investigate the source of students' trust in ChatGPT when encountering learning failure througth trust transfer theory. The paper is in progress and is scheduled for submission to International Journal of Information Management. 
 
+> IJIM under review on 20, Sept.
 > - Submitted to IJIM on 5, Sept. The only student author. 
 
 
