@@ -35,6 +35,9 @@ Projects
 Present
 ------
 
+
+> Receive paper test from Mihoyo. 18 Sept.
+> 
 > Submit resume to some big techs for PM, front-end engineer, client platform engineer position. 13 Sept.
 >
 > Working on Project Management online course.     9 Sept. - ...
