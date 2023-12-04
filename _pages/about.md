@@ -36,7 +36,8 @@ Projects
 Present
 ------
 
-> Received PM intern from Hero Game. 23 Oct.
+
+> Received PM intern offer from Hero Game. 23 Oct.
 >
 > Received Phd offer from Info RUC; Received rejection from Mihoyo; Rejected interview for game PM from Tencent and regretted. 27 Sept.
 > 
